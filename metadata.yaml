@@ -1,0 +1,43 @@
+_repo: Bragelonnen-varakreivi-eli-Muskettisoturien-viimeiset-urotyot-II-2-Historiallinen-romaani-Lud__53872
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hameen-Anttila, Vaino
+    - Hämeen-Anttila, V.
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - père, Alexandre Dumas
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: 'Translation of second part of: Le vicomte de Bragelonne.'
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53872'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Bragelonnen varakreivi eli Muskettisoturien viimeiset urotyöt II (2)
+
+  Historiallinen romaani Ludvig XIV:n hovista'
+url: http://www.gutenberg.org/ebooks/53872
